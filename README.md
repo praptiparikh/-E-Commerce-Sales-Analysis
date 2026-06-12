@@ -1,14 +1,10 @@
-# -E-Commerce-Sales-Analysis
+# E-Commerce-Sales-Analysis
 Analyzed 9,800+ retail orders using Python &amp; SQL to uncover  sales trends, profit drivers, and discount impact across  4 regions and 17 product categories.
 
 # E-Commerce Sales Performance Analysis
 
 ## Overview
-This project analyzes a retail superstore's sales data to 
-extract actionable business insights using Python, Pandas, 
-Matplotlib, and SQL. The analysis covers revenue trends, 
-regional performance, product profitability, and the impact 
-of discounts on profit margins.
+This project analyzes a retail superstore's sales data to extract actionable business insights using Python, Pandas, Matplotlib, and SQL. The analysis covers revenue trends, regional performance, product profitability, and the impact of discounts on profit margins.
 
 ## Business Questions Answered
 - Which product categories and sub-categories are most profitable?
